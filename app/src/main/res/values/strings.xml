@@ -3,4 +3,6 @@
     <string name="str_key1">editTextKey</string>
     <string name="button_text1">Set Text</string>
     <string name="editText_str">Enter Text</string>
+    <string name="bgButton_text">Select Background</string>
+    <string name="imageId_key1">imageId_key1</string>
 </resources>
